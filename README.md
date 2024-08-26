@@ -3,20 +3,22 @@ Visual-inertial SLAM (VI-SLAM) is a key technology for Augmented Reality (AR), w
 ![Alt text](assets/100phones-teaser.png)
 
 # Video
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DURflqYQCkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 For the details, you can refer to 
 https://www.youtube.com/watch?v=NIlEa_M_aeA
 
 # Our Dataset
+
 ## List of 100 phone models
-····························································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································
-
-
-
+![100-phones-table](./assets/100-phones-table.png)
 
 We design three simple yet typical motions to collect three sub-datasets in a small-scale scene. Each sub-dataset contains 100 sequences collected by the 100 phones. We organize the three sub-dataset as follow and we name the data format as "dior".
 
+## Dataset Format
+
+The format of files are as follow:
+
 ### Circle/Line/Rotation 
+
 ```shell
 eg: train_data/circle/huawei-mate30-pro.tar.xz
 |--camera
