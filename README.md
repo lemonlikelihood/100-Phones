@@ -3,7 +3,7 @@ Visual-inertial SLAM (VI-SLAM) is a key technology for Augmented Reality (AR), w
 ![Alt text](assets/100phones-teaser.png)
 
 # Video
-https://github.com/zju3dv/LSFB/assets/16128141/d5848f5c-5d9a-4d8b-8f90-3a4a71c9bd58
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DURflqYQCkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 For the details, you can refer to 
 https://www.youtube.com/watch?v=NIlEa_M_aeA
 
